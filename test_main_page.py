@@ -1,4 +1,4 @@
-link = "http://selenium1py.pythonanywhere.com/"
+from .pages.main_page import MainPage
 
 
 def go_to_login_page(browser):
